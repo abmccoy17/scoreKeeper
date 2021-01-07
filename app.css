@@ -1,0 +1,23 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+#p1Btn {
+    background-color: rgb(12, 209, 166);
+    color: white;
+}
+
+#p2Btn {
+    background-color: rgb(104, 169, 255);
+    color: white;
+}
+
+#reset {
+    background-color: red;
+    color: white;
+}
+
